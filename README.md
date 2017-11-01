@@ -1,5 +1,4 @@
-# Debugging-PHP-using-Xdebug-and-Visual-Studio-Code
-Debugging PHP using Xdebug and Visual Studio Code
+# Debugging PHP using Xdebug and Visual Studio Code
 
 Are you suffering from PHP debugging pain using var_dump(); echo “foo”; die();  :-(
 
